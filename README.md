@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="es">
      <head>
@@ -78,3 +79,6 @@
     
 </html>
 
+=======
+# la1web hola em dic jesus
+>>>>>>> e1e2da71356d0e13f46ca93cd70e36864864e21f
